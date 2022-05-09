@@ -1,0 +1,5 @@
+project: jbgreenh/hanz2piny
+target: hanz2piny
+
+cmds:
+  - cmd: /hanz2piny --path @@
